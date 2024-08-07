@@ -1,6 +1,7 @@
-# Historical Temprature Widget for Scriptable
+# Historical Temperature Widget for Scriptable
 
 Displays the historical temperature as color in the current hour from the last 10 years at any city. 
+
 
 ![](https://i.imgur.com/q6k0oc1.jpeg)
 
