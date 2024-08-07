@@ -1,8 +1,7 @@
-# Cloudcover Visualisation Widget for Scriptable
+# Historical Temprature Widget for Scriptable
 
-Displays the upcoming cloudcover data for the next 48 hours in any city. Blue is blue sky and the whiter  the lines get, the more clouds are there. No API-Key required.
- 
-![](https://i.imgur.com/LOGqTiM.jpeg) 
+Displays the historical temperature as color from the last 10 years in any city. 
+![](https://i.imgur.com/q6k0oc1.jpeg)
 
 ### Installation
 - Download the script in the releases tab
